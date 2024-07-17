@@ -16,7 +16,6 @@ Welcome to my first app using Flutter! It's been a great experience for me to di
   <img src="images/question3.png" alt="Question 3" width="250">
   <img src="images/question4.png" alt="Question 4" width="250">
   <img src="images/question5.png" alt="Question 5" width="250">
-  <img src="images/question6.png" alt="Question 6" width="250">
   <img src="images/results.png" alt="Results" width="250">
 </div>
 
