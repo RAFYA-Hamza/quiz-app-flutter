@@ -10,7 +10,7 @@ Welcome to my first app using Flutter! It's been a great experience for me to di
 
 - **Quiz**: After the splash screen, the app presents a quiz with basic questions about Flutter to help you get started.
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; gap: 5px;">
   <img src="images/question1.png" alt="Question 1" width="250">
   <img src="images/question2.png" alt="Question 2" width="250">
   <img src="images/question3.png" alt="Question 3" width="250">
