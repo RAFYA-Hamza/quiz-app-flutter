@@ -1,6 +1,4 @@
-# Quiz App  
-
-# My First Flutter App
+# My First Flutter App {Quiz App}
 
 Welcome to my first app using Flutter! It's been a great experience for me to discover a new field that I'm passionate about. This app is designed to provide a simple yet engaging way to learn some basics about Flutter through a quiz format.
 
