@@ -5,8 +5,8 @@ Welcome to my first app using Flutter! It's been a great experience for me to di
 ## Features
 
 - **Splash Screen**: The app starts with a splash screen that contains some useful information about the app.
-- 
-<img src="images/splash_screen.png" alt="Splash Screen" width="300">
+  
+<img src="images/splash_screen.png" alt="Splash Screen" width="200">
 
 - **Quiz**: After the splash screen, the app presents a quiz with basic questions about Flutter to help you get started.
 
