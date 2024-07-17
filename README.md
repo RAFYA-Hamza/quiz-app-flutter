@@ -10,6 +10,16 @@ Welcome to my first app using Flutter! It's been a great experience for me to di
 
 - **Quiz**: After the splash screen, the app presents a quiz with basic questions about Flutter to help you get started.
 
+<img src="images/question1.png" alt="Question 1" width="250">
+<img src="images/question2.png" alt="Question 2" width="250">
+<img src="images/question3.png" alt="Question 3" width="250">
+<img src="images/question4.png" alt="Question 4" width="250">
+<img src="images/question5.png" alt="Question 5" width="250">
+<img src="images/question6.png" alt="Question 6" width="250">
+<img src="images/results.png" alt="Results" width="250">
+
+
+
 ## Getting Started
 
 ### Prerequisites
